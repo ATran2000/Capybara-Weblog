@@ -27,9 +27,9 @@ export default function Home({ allPostsData }) {
         />
         <meta
           property="og:description"
-          content="CHECK OUT THIS AWESOME DONUT CAPYBARA!!!"
+          content="YOU WON'T BELIEVE WHAT'S ON THIS PAGE"
         />
-        <meta property="og:image" content={"https://i.redd.it/oyqu5a3e7d881.jpg"} />
+        <meta property="og:image" content="https://i.redd.it/oyqu5a3e7d881.jpg" />
       </Head>
 
       <section className={utilStyles.headingMd}>
