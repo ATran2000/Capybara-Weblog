@@ -7,6 +7,4 @@ date: '2023-04-04'
 
 Here are some examples:
 
-![capybara-rafa1](https://github.com/ATran2000/Intro-to-NextJS-Tutorial/blob/main/public/images/capybara-rafa1.jpg)
-
-Need I say more?
+![capybara-rafa1]("../public/images/capybara-rafa1.jpg")
