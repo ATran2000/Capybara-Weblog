@@ -13,10 +13,6 @@ However,\
 \
 Don't believe it? Here are some examples:\
 \
-\
-\
-\
-\
 ![capybara-rafa1](https://user-images.githubusercontent.com/89952087/230267976-5af05837-d562-40b2-ba07-02b687f33246.jpg)\
 \
 ![capybara-rafa2](https://user-images.githubusercontent.com/89952087/230273259-827ae146-c196-4053-99f7-0c6dc4bba2e8.JPG)\
