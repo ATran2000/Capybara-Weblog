@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
           property="og:description"
           content="CHECK OUT THIS AWESOME DONUT CAPYBARA!!!"
         />
-        <meta property="og:image" content={"/public/images/profile.jpg"} />
+        <meta property="og:image" content={"https://i.redd.it/oyqu5a3e7d881.jpg"} />
       </Head>
 
       <section className={utilStyles.headingMd}>
