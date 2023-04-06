@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
           property="og:description"
           content="YOU WON'T BELIEVE WHAT'S ON THIS PAGE"
         />
-        <meta property="og:image" content="https://i.redd.it/oyqu5a3e7d881.jpg" />
+        <meta property="og:image:secure_url" content="https://alvins-donut-capybara.vercel.app/images/profile.jpg" />
       </Head>
 
       <section className={utilStyles.headingMd}>
