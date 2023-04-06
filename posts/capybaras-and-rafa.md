@@ -7,7 +7,7 @@ date: '2023-04-04'
 \
 However,\
 **Legendary** player **Rafael Nadal** is **NOT** a **GOAT**...\
-**He** is a **Capybara**.\
+**He** is a **CAPYBARA**.\
 \
 ![rafa-shocking-face](https://user-images.githubusercontent.com/89952087/230277934-46f84378-2c36-4599-bbd4-9da356284f74.jpg)\
 \
