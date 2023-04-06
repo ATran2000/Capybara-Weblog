@@ -7,4 +7,4 @@ date: '2023-04-04'
 
 Here are some examples:
 
-![capybara-rafa1]("../public/images/capybara-rafa1.jpg")
+![capybara-rafa1](https://user-images.githubusercontent.com/89952087/230267976-5af05837-d562-40b2-ba07-02b687f33246.jpg)
