@@ -5,17 +5,11 @@ date: '2023-04-04'
 
 **Rafael Nadal Parera** is a Spanish professional **tennis player**. He is currently ranked world No. 14 in singles by the Association of Tennis Professionals. He has been ranked **world No. 1** for **209 weeks**, and has finished as the **year-end No. 1 five times**.\
 \
-\
-\
-\
-\
 However,\
 **Legendary** player **Rafael Nadal** is **NOT** a **GOAT**...\
 **He** is a **Capybara**.\
 \
-\
-\
-\
+![rafa-shocking-face](https://user-images.githubusercontent.com/89952087/230277934-46f84378-2c36-4599-bbd4-9da356284f74.jpg)\
 \
 Don't believe it? Here are some examples:\
 \
