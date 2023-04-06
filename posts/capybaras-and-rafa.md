@@ -3,6 +3,8 @@ title: 'The Truth About Rafael Nadal'
 date: '2023-04-04'
 ---
 
+Rafael Nadal Parera is a Spanish professional tennis player. He is currently ranked world No. 14 in singles by the Association of Tennis Professionals. He has been ranked world No. 1 for 209 weeks, and has finished as the year-end No. 1 five times.  
+  
 **Legendary** player **Rafael Nadal** is **NOT** a **GOAT**...  
 **He** is a **Capybara**.  
   
