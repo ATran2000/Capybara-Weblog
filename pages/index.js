@@ -20,9 +20,14 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
         <meta property="og:url" content="https://alvins-donut-capybara.vercel.app/" />
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:title"
+          content="Alvin's Donut Capybara"
+        />
         <meta
           property="og:description"
-          content="CHECK OUT THIS AWESOME DONUT CAPYBARA"
+          content="CHECK OUT THIS AWESOME DONUT CAPYBARA!!!"
         />
         <meta property="og:image" content={"/images/profile.jpg"} />
       </Head>
