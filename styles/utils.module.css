@@ -30,7 +30,7 @@
   }
   
   .colorInherit {
-    color: inherit;
+    color: "inherit";
   }
   
   .padding1px {
