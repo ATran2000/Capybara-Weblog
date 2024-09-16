@@ -19,22 +19,20 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
-        <meta property="og:url" content="https://alvins-donut-capybara.vercel.app/" />
+        <meta property="og:url" content="https://capybara-weblog.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
-          content="Alvin's Donut Capybara"
+          content="Capybara Weblog"
         />
         <meta
           property="og:description"
-          content="YOU WON'T BELIEVE WHAT'S ON THIS PAGE"
+          content="Short accounts of capybaras!"
         />
-        <meta property="og:image:secure_url" content="https://alvins-donut-capybara.vercel.app/images/profile.jpg" />
+        <meta property="og:image:secure_url" content="https://capybara-weblog.vercel.app/images/profile.jpg" />
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>A doughnut or donut is a type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors.</p>
-        <br></br>
         <p>The capybara or greater capybara is a giant cavy rodent native to South America. It is the largest living rodent and a member of the genus Hydrochoerus. The only other extant member is the lesser capybara.</p>
       </section>
 

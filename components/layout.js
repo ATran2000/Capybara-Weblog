@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Donut Capybara';
-export const siteTitle = 'Alvin\'s Donut Capybara';
+const name = 'Capybara Weblog';
+export const siteTitle = 'Capybara Weblog';
 
 export default function Layout({ children, home }) {
   return (
